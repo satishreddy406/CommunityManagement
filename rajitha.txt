@@ -1,1 +1,2 @@
 hello git hub
+Starting the git project
